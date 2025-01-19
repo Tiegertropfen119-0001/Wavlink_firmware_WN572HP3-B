@@ -3,8 +3,8 @@
 This repository contains the SPI-dumped firmware for Wavlink devices, including a functional U-Boot bootloader, useful for debugging, recovery, and firmware restoration.
 
 ## Links
-[Wavlink Firmware (Offical)](https://docs.wavlink.xyz/Firmware/fm-572hp3-b)
-
+[Wavlink Firmware (Offical)](https://docs.wavlink.xyz/Firmware/fm-572hp3-b)\
+[Wavlink UBoot fix](https://github.com/Tiegertropfen119-0001/Wavlink_firmware_WN572HP3-B/blob/main/fm_dumps/wavlink_working.bin)
 ## Background
 
 ### Issue with Broken Device
