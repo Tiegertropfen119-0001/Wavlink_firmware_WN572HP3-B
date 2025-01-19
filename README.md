@@ -12,7 +12,8 @@ Serial flashing didn't work, rendering the device inaccessible.
 
 ### Recovery Steps
 I had access to another Wavlink outdoor AP that was damaged in a thunderstorm. After debugging, I identified a shorted 2.4 GHz amplifier. Desoldering the amplifier allowed the device to boot successfully. From this device, I dumped the working firmware and U-Boot.
-
+![the_spi_chip](https://github.com/Tiegertropfen119-0001/Wavlink_firmware_WN572HP3-B/blob/main/img/SPIFlashWorkingWavlink.jpg)
+![reading_spi_chip](https://github.com/Tiegertropfen119-0001/Wavlink_firmware_WN572HP3-B/blob/main/img/SPIReading.png)
 ### Boot Log of Working Device
 U-Boot 2018.09-g4066fd9-dirty (Oct 19 2022 - 11:00:39 +0800)
 
