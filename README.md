@@ -4,7 +4,10 @@ This repository contains the SPI-dumped firmware for Wavlink devices, including 
 
 ## Links
 [Wavlink Firmware (Offical)](https://docs.wavlink.xyz/Firmware/fm-572hp3-b)\
-[Wavlink UBoot fix](https://github.com/Tiegertropfen119-0001/Wavlink_firmware_WN572HP3-B/blob/main/fm_dumps/wavlink_working.bin)
+[Wavlink UBoot fix](https://github.com/Tiegertropfen119-0001/Wavlink_firmware_WN572HP3-B/blob/main/fm_dumps/wavlink_working.bin)\
+[SPI Flash PDF](https://www.boyamicro.com/download/SPI_NOR_Flash/BY25Q128AS.pdf)\
+
+SPI flash may vary as they are just using drop-in replacements
 ## Background
 
 ### Issue with Broken Device
@@ -32,6 +35,8 @@ Boot Sequence: Autoboot Countdown: 0 seconds
 
 GPIO Status: 572HP3 GPIO Configuration: GPIO 16: 1 → 0 GPIO 17: 1 → 0 GPIO 3: 1 → 0 GPIO 4: 0
 
+## EZP2019+ Setup
+![image](https://github.com/user-attachments/assets/a3064dcd-5c17-4649-9f55-0da1e195848f)
 
 
 ## Flashing Instructions
