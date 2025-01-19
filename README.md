@@ -5,7 +5,7 @@ This repository contains the SPI-dumped firmware for Wavlink devices, including 
 ## Links
 [Wavlink Firmware (Offical)](https://docs.wavlink.xyz/Firmware/fm-572hp3-b)\
 [Wavlink UBoot fix](https://github.com/Tiegertropfen119-0001/Wavlink_firmware_WN572HP3-B/blob/main/fm_dumps/wavlink_working.bin)\
-[SPI Flash PDF](https://www.boyamicro.com/download/SPI_NOR_Flash/BY25Q128AS.pdf)\
+[SPI Flash PDF](https://www.boyamicro.com/download/SPI_NOR_Flash/BY25Q128AS.pdf)
 
 SPI flash may vary as they are just using drop-in replacements
 ## Background
